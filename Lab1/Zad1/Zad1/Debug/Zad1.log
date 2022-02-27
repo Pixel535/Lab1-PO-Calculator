@@ -1,0 +1,6 @@
+﻿  C.cpp
+  Zad1.cpp
+D:\Mati\Moje Programy\PO\Zad1\Zad1\Zad1.cpp(35,21): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u00B3" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+D:\Mati\Moje Programy\PO\Zad1\Zad1\Zad1.cpp(10,18): warning C4101: "c": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+  Zad1.vcxproj -> D:\Mati\Moje Programy\PO\Zad1\Debug\Zad1.exe
